@@ -33,9 +33,9 @@
 
             label = "Base";
             bindings = <
-&kp TAB               &kp Q             &kp W               &kp F           &kp P               &kp G         &kp J    &kp L                &kp U                &kp Y                &kp SEMI           &kp BSPC
-&mt LEFT_CONTROL ESC  &hm LEFT_SHIFT A  &hm LEFT_CONTROL R  &hm LEFT_ALT S  &hm LEFT_COMMAND T  &kp D         &kp H    &hm RIGHT_COMMAND N  &hm RIGHT_COMMAND E  &hm RIGHT_CONTROL I  &hm RIGHT_SHIFT O  &mt RCTRL SQT
-&kp LSHFT             &kp Z             &kp X               &kp C           &kp V               &kp B         &kp K    &kp M                &kp COMMA            &kp DOT              &kp FSLH           &kp RIGHT_SHIFT
+&kp TAB               &kp Q             &kp W               &kp F           &kp P               &kp G         &kp J    &kp L                &kp U           &kp Y                &kp SEMI           &kp BSPC
+&mt LEFT_CONTROL ESC  &hm LEFT_SHIFT A  &hm LEFT_CONTROL R  &hm LEFT_ALT S  &hm LEFT_COMMAND T  &kp D         &kp H    &hm RIGHT_COMMAND N  &hm LEFT_ALT E  &hm RIGHT_CONTROL I  &hm RIGHT_SHIFT O  &mt RCTRL SQT
+&kp LSHFT             &kp Z             &kp X               &kp C           &kp V               &kp B         &kp K    &kp M                &kp COMMA       &kp DOT              &kp FSLH           &kp RIGHT_SHIFT
                                                             &kp LEFT_ALT    &lt 2 BACKSPACE     &kp DELETE    &kp RET  &lt 1 SPACE          &kp RIGHT_GUI
             >;
         };
